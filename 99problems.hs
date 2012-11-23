@@ -1,4 +1,4 @@
--- http://www.haskell.org/haskellwiki/99_questions
+-- http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems
 -- by Jordan Scales
 -- http://jordanscales.com
 

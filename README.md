@@ -2,5 +2,4 @@
 
 *I got 99 problems and haskell is a few of them.*
 
-Nothing much to see here, just me flexing my coding muscles.
-
+I am completing the problems [here](http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems).
